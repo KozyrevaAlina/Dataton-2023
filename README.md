@@ -147,10 +147,10 @@ ____
 |7.	|	Наличие предустановленной ОС	|OS	|String	|Название оси
 |Процессор
 |8.	|	Количество ядер|	CoresNumber	|Int|	
-|.	|	Производитель процессора |	Processor|	String	|Производитель 
+|9.	|	Производитель процессора |	Processor|	String	|Производитель 
 |10.	|	Модель процессора	|ProcessorType	|String	|Модель (core i7)
 |11.	|	Тип процессора	|Processor Model|	String	|Серия (11260H)
-|2.	|	Тактовая частота процессора|	ProcessorFrequency_GHz	|int	|Частота в ГГц
+|12.	|	Тактовая частота процессора|	ProcessorFrequency_GHz	|int	|Частота в ГГц
 |Видеокарта
 |13.	|	Производитель видеопроцессора |	GpuManufacter 	|String	|
 |14.	|	Модель графического контроллера|	GpuController |	String	|
